@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
