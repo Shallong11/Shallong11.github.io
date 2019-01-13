@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body, header {
+  font-family: 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
+header h1 {
+  width: unset
+}
