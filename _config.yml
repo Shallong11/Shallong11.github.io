@@ -4,3 +4,8 @@ encoding: UTF-8
 markdown: kramdown
 kramdown:
   input: GFM
+
+title: Shallong11 Tech Note
+description: Road to the TECH
+
+show_downloads: false
